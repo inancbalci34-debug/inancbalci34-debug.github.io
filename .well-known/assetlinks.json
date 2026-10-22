@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.inancbalci34_debug.twa",
+    "sha256_cert_fingerprints": ["97:88:D1:21:92:38:B9:99:9A:98:C3:6A:F6:61:25:40:AA:34:2D:85:58:0F:90:70:3F:4B:D8:EC:5E:5C:B1:15"]
+  }
+}]
